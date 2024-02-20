@@ -1,0 +1,22 @@
+{
+  "name": "dnd-js",
+  "version": "1.0.0",
+  "description": "Create drag and drop event in DOM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinich39/dnd-js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "shinich39 <shinich39@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinich39/dnd-js/issues"
+  },
+  "homepage": "https://github.com/shinich39/dnd-js#readme"
+}
